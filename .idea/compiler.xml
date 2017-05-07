@@ -12,5 +12,9 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="CommonCode_main" target="1.8" />
+      <module name="CommonCode_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

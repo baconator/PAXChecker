@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommonCode.iml" filepath="$PROJECT_DIR$/.idea/modules/CommonCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommonCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CommonCode_main.iml" group="CommonCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommonCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CommonCode_test.iml" group="CommonCode" />
     </modules>
   </component>
 </project>
